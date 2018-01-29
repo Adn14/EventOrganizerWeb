@@ -1,0 +1,6 @@
+id_member,nama_member,total,no_rek,password,email,telp,status,id_bagian,level,id_tampil,id_event,id_member,bayaran,id_bagian,bagian,bayaran,status,id_department,id_departmen,departmen,status,id_event,nama_event,jam_mulai,jam_akhir,tayang,tanggal_tayang,id_wilayah,status
+2,"Adn Agung",0,854652,agung,adn@yahoo.com,082334654655,1,4,0,1,2,2,100000,4,Drummer,21000,1,1,1,Musik,1,2,"Cyber Cafe",15:00:00,17:00:00,Selasa,2017-12-05,2,0
+3,"Ardian Kurniawan",0,847546,ardian,ardian_ymail.com,082123287654,1,2,0,3,1,3,30000,2,Guitar,15000,0,1,1,Musik,1,1,"Coloni Cafe",12:00:00,14:00:00,Senin,2017-12-04,1,1
+5,"Bryan Niddle",0,456212,niddle,bryan@gmail.com,081565466789,1,1,1,6,4,5,100000,1,Vokalis,30000,1,1,1,Musik,1,4,"King Planitarium",15:00:00,17:00:00,Rabu,2017-12-06,2,1
+4,"David Leonardo",0,854656,leonardo,leo@gmail.com,0857556565445,1,5,0,4,1,4,20000,5,Soundman,12000,1,3,3,Sound,0,1,"Coloni Cafe",12:00:00,14:00:00,Senin,2017-12-04,1,1
+1,"Ekky Ryno",0,815553,fajar,fajar@gmail.com,087876567658,1,6,1,2,2,1,50000,6,Driver,15000,0,2,2,Transportasi,1,2,"Cyber Cafe",15:00:00,17:00:00,Selasa,2017-12-05,2,0
